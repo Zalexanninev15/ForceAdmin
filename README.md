@@ -25,7 +25,7 @@ The inserted commands are executed via powershell that executes cmd.exe. This at
 - [x] No Dependencies Required
 - [x] Supports both x86 and x64
 - [x] Bypass AV
-- [x] [Fileless Execution](https://github.com/Chainski/ForceAdmin/blob/main/ForceAdmin.ps1) 
+- [x] [Fileless](https://github.com/Chainski/ForceAdmin/blob/main/ForceAdmin.ps1) 
 
 ## DISCLAIMER !
 **This tool is for educational use only, the author will not be held responsible for any misuse of this tool.**
